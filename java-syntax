@@ -1,0 +1,12 @@
+# Notes
+
+## Core
+
+## MVC
+
+## Hibernatte
+
+## Other
+.
+	> Annotations:
+		@WebServlet("/TestDbServlet") -> servlet with url

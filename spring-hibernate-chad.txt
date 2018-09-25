@@ -1,16 +1,3 @@
-# Notes
-
-## Core
-
-## MVC
-
-## Hibernatte
-
-## Other
-.
-	> Annotations:
-		@WebServlet("/TestDbServlet")
-
 # Course
 
 ## 264-271. Seting up + test Database Connection:
