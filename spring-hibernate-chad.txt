@@ -33,8 +33,6 @@
 		class: CustomerController
 		/customer/list -> list-customers.jsp
 		
-## 266+. Set Up Dev Environment
+## 272+. MVC and Hibernate Project - Part 2
 .
-	> copy starter config files
 	> 
-rtrt
